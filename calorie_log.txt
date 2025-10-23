@@ -1,0 +1,19 @@
+
+-------------------------------------
+        Daily Calorie Summary        
+-------------------------------------
+Meal Name             Calories
+-------------------------------------
+breakfast               600.00
+lunch                   800.00
+evening snacks          550.00
+dinner                  750.00
+-------------------------------------
+Total:                 2700.00
+Average:                675.00
+-------------------------------------
+ Warning: You have exceeded your daily calorie limit! 
+ 300 calories over the limit!
+-------------------------------------
+Session Date/Time: 2025-10-23 14:13:01.911520
+-------------------------------------
